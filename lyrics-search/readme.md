@@ -28,3 +28,9 @@ A browser based application using JavaScript to search songs, artists and lyrics
 - Fetch songs/artists and put in DOM using ``` lyrics.ovh ``` API.
 - Added pagination .
 - Added get lyrics functionality and display functions in DOM
+
+<hr>
+
+## Deployed
+
+To view the deployed app click [here](https://lyrics-app-de.herokuapp.com)
